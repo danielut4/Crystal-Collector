@@ -1,0 +1,59 @@
+body{
+	background-image: url("../images/7-Energy-Crystals-That-You-Should-Own.jpg")
+}
+div{
+	background-color: lightgray;
+	margin: 12px;
+	width: 25%
+}
+div{
+	border: solid 3px whitesmoke;
+	padding: 10px;
+}
+h1, h3, span{
+	font-family: fantasy;
+	text-align: center;
+}
+h1{
+	font-size: 32pt;
+	color: whitesmoke;
+}
+h2{
+	font-size: 12pt;
+	font-weight: bold;
+}
+ul {
+	list-style: disc inside;
+	text-indent: 10px;
+}
+div.gems{
+	background-color: lightgray;
+}
+div.header{
+	background-color: peru;
+	width: 25%;
+}
+
+div.guide{
+	background-color: khaki;
+	width: fit-content;
+}
+
+.numberToMatch, .winsAndLosses{
+	float: left;
+	width: 10%;
+	height: 60px;
+}
+.userTotal{
+	width: 14%;
+	height: 40px;
+	font-weight: bolder;
+}
+.gems{
+	clear: both;
+	width: fit-content;
+}
+.gemPic{
+	height: 60px;
+	margin: 10px;
+}
